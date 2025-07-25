@@ -5,7 +5,7 @@ A conversational **Financial Advisor Chatbot** powered by LLMs and LangGraph’s
 ---
 
 ## Live Demo
-[Click here to use the Financial Advisor Agent](https://your-demo-link.com)  
+[Click here to use the Financial Advisor Agent](https://financial-advisor-multitool-react-agent.onrender.com/)  
 
 ---
 
@@ -67,4 +67,4 @@ This is a **REACT-style agent** built using [LangGraph](https://langchain-ai.git
 git clone https://github.com/Viswa-Prakash/Financial_Agent_MultiTool_ReACT.git
 cd Financial_Agent_MultiTool_ReACT
 pip install -r requirements.txt
-python main.py
+streamlit run app.py
