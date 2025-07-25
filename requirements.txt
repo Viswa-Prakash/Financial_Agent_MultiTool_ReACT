@@ -1,0 +1,10 @@
+python-dotenv
+streamlit
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+langchain_experimental
+google-search-results
+streamlit
